@@ -1,2 +1,2 @@
 # [Raku DTHD](http://github.com)
-![Alt Text](https://img.ibxk.com.br/2020/01/30/30021141299110.jpg?w=1120&h=420&mode=crop&scale=both)
+![](https://i.pinimg.com/originals/60/97/ac/6097ac5e87cc89856d6596b4f217ff3a.jpg)
