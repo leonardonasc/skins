@@ -1,4 +1,4 @@
-# [Raku no mod - NÃO ESTÁ PRONTA](https://drive.google.com/drive/folders/1pSkg9wfvvUv7v2gr0Pk8DvQHr_8hw8AH)
+# [Raku no mod - NÃO ESTÁ PRONTA]()
 ![](https://i.imgur.com/UMe4Ip3.jpg)
 
 # [Raku DTHD](https://drive.google.com/file/d/1Sudk4tfhtr5SAL_5Cr2FTAbgL6VA8z3I/view?usp=sharing)
