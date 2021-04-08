@@ -1,4 +1,4 @@
-# [Raku no mod - NÃO ESTÁ PRONTA]()
+# [Raku Nomod - 50 follows libero]()
 ![](https://i.imgur.com/UMe4Ip3.jpg)
 
 # [Raku DTHD](https://drive.google.com/file/d/1Sudk4tfhtr5SAL_5Cr2FTAbgL6VA8z3I/view?usp=sharing)
