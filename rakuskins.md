@@ -1,4 +1,4 @@
-# [Raku NM - 50 follows libero]()
+# [Raku NM - 50 follows libero ttv/raku_osu]()
 ![](https://i.imgur.com/UwwPvcN.jpg)
 
 # [Raku DTHD](https://drive.google.com/file/d/1Sudk4tfhtr5SAL_5Cr2FTAbgL6VA8z3I/view?usp=sharing)
