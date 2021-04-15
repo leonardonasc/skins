@@ -1,6 +1,6 @@
-# [Raku NM]()
+# [Raku NM](https://drive.google.com/file/d/1Qm8ndbmputWZzIUP2qBND5P64n_Lzaul/view?usp=sharing)
 ![](https://i.imgur.com/UwwPvcN.jpg)
-![](https://drive.google.com/file/d/1Qm8ndbmputWZzIUP2qBND5P64n_Lzaul/view?usp=sharing)
+
 
 # [Raku DTHD](https://drive.google.com/file/d/1Sudk4tfhtr5SAL_5Cr2FTAbgL6VA8z3I/view?usp=sharing)
 ![](https://i.pinimg.com/originals/60/97/ac/6097ac5e87cc89856d6596b4f217ff3a.jpg)
