@@ -1,4 +1,4 @@
-# [Raku NM](https://drive.google.com/file/d/1Qm8ndbmputWZzIUP2qBND5P64n_Lzaul/view?usp=sharing)
+# [Raku NM]()
 ![](https://i.imgur.com/UwwPvcN.jpg)
 
 
