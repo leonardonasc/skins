@@ -1,9 +1,4 @@
-# [Raku NM]()
-![](https://i.imgur.com/UwwPvcN.jpg)
 
-
-# [Raku DTHD](https://drive.google.com/file/d/1Sudk4tfhtr5SAL_5Cr2FTAbgL6VA8z3I/view?usp=sharing)
-![](https://i.pinimg.com/originals/60/97/ac/6097ac5e87cc89856d6596b4f217ff3a.jpg)
 
 # [MonkoEdit](https://skins.osuck.net/index.php?newsid=2011)
 ![](https://skins.osuck.net/uploads/posts/2021-03/1615248704_screenshot9666.jpg)
