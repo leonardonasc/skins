@@ -6,9 +6,15 @@
 # [MonkoEdit](https://skins.osuck.net/index.php?newsid=2011)
 ![](https://skins.osuck.net/uploads/posts/2021-03/1615248704_screenshot9666.jpg)
 
-# [WhiteCat Hybrid](https://drive.google.com/file/d/1vxECn9hgGPuTeqOOLblQqNUBKrx6j0wb/view?usp=sharing)
-![](https://i.imgur.com/uuuDeS6.jpg)
 
 # [Rafis](https://skins.osuck.net/index.php?newsid=166)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537866905_ferbeuw.jpg)
+
+
+# [Aesthetic](https://drive.google.com/file/d/1eq6PfuC7jF1HFtcZHrV2J9kuTQsbit97/view)
+![](https://user-images.githubusercontent.com/57284292/68068114-6c203200-fd49-11e9-92d6-3edac1fa3d53.png)
+
+
+#[NameNotFound]
+![]()
 
