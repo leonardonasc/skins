@@ -3,10 +3,6 @@
 ![](https://i.imgur.com/gS6tlh0.png)
 
 
-# [MonkoEdit](https://skins.osuck.net/index.php?newsid=2011)
-![](https://skins.osuck.net/uploads/posts/2021-03/1615248704_screenshot9666.jpg)
-
-
 # [Rafis](https://skins.osuck.net/index.php?newsid=166)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537866905_ferbeuw.jpg)
 
@@ -15,6 +11,6 @@
 ![](https://user-images.githubusercontent.com/57284292/68068114-6c203200-fd49-11e9-92d6-3edac1fa3d53.png)
 
 
-#[NameNotFound]
-![]()
+#[NoTittle - privada/private skin]()
+![](https://i.imgur.com/l7kCynH.png)
 
