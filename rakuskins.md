@@ -15,4 +15,4 @@
 ![](https://i.imgur.com/l7kCynH.png)
 
 # [Ryuk](https://www.dropbox.com/s/7klqe06pjqgr4bg/Komori%20-%20Ryugumink%20Ryuk%27s%20Style%28Megumin%20-%20Eihi%29.osk?dl=0)
-![](https://prnt.sc/1qevtjm)
+![](https://i.imgur.com/9htddBg.png)
